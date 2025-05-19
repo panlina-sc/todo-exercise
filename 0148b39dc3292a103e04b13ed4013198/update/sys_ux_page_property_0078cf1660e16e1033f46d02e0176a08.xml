@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="To Do Workspace">c878cf1677e16e10dd9787b720026c16</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 00:46:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0078cf1660e16e1033f46d02e0176a08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope>
+        <sys_update_name>sys_ux_page_property_0078cf1660e16e1033f46d02e0176a08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 00:46:16</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1755675_to_do.c878cf1677e16e10dd9787b720026c16.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0078cf1660e16e1033f46d02e0176a08"/>
+</record_update>

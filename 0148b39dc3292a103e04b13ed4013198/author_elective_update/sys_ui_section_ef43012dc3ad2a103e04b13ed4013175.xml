@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="ef43012dc3ad2a103e04b13ed4013175" sys_domain="global" table="x_1755675_to_do_to_do" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 07:09:08</sys_created_on>
+            <sys_id>0853012dc3ad2a103e04b13ed401317a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 07:09:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 07:09:08</sys_created_on>
+            <sys_id>0053012dc3ad2a103e04b13ed401317b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 07:09:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 07:09:08</sys_created_on>
+            <sys_id>0853012dc3ad2a103e04b13ed401317b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 07:09:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1755675_to_do_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 07:09:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef43012dc3ad2a103e04b13ed4013175</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755675_to_do_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope>
+            <sys_update_name>sys_ui_section_ef43012dc3ad2a103e04b13ed4013175</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 07:09:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">91510529c3ad2a103e04b13ed401311e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">0148b39dc3292a103e04b13ed4013198</application>
+        <file_path/>
+        <instance_id>5bbe1cb33b9f92d89aefe747f4e45a2f</instance_id>
+        <instance_name>dev294438</instance_name>
+        <name>sys_ui_section_ef43012dc3ad2a103e04b13ed4013175</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="ef43012dc3ad2a103e04b13ed4013175" sys_domain="global" table="x_1755675_to_do_to_do" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>progress</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 07:09:08</sys_created_on><sys_id>0853012dc3ad2a103e04b13ed401317a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 07:09:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 07:09:08</sys_created_on><sys_id>0053012dc3ad2a103e04b13ed401317b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 07:09:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>importance</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 07:09:08</sys_created_on><sys_id>0853012dc3ad2a103e04b13ed401317b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755675_to_do_to_do" sys_domain="global" view="91510529c3ad2a103e04b13ed401311e">ef43012dc3ad2a103e04b13ed4013175</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 07:09:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1755675_to_do_to_do</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 07:09:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef43012dc3ad2a103e04b13ed4013175</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755675_to_do_to_do</sys_name><sys_overrides/><sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package><sys_policy/><sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope><sys_update_name>sys_ui_section_ef43012dc3ad2a103e04b13ed4013175</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 07:09:07</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">91510529c3ad2a103e04b13ed401311e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>684478734</payload_hash>
+        <record_name>To Do</record_name>
+        <reverted_from/>
+        <source>42d8b06dc36d2a103e04b13ed40131b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 07:09:08</sys_created_on>
+        <sys_id>0053012dc3ad2a103e04b13ed40131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d7ece5ec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 07:09:08</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8453012dbcad2a1047e554f4481b68f9</update_guid>
+        <update_guid_history>8453012dbcad2a1047e554f4481b68f9:684478734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 07:13:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>082fd968ab094f369d38727410590424</sys_id>
+        <sys_metadata>ef43012dc3ad2a103e04b13ed4013175</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package>
+        <sys_parent display_value="To Do To Do">7919f7ddc3292a103e04b13ed40131c9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope>
+        <sys_scope_delete display_value="">69b704ae73444372894ecae296a7ee29</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ef43012dc3ad2a103e04b13ed4013175</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ef43012dc3ad2a103e04b13ed4013175">0053012dc3ad2a103e04b13ed40131fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 07:13:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

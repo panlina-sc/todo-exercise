@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">2778c356c3e16e103e04b13ed4013151</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 00:46:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b78c356c3e16e103e04b13ed401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope>
+        <sys_update_name>par_dashboard_widget_7b78c356c3e16e103e04b13ed401318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 00:46:28</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">0148b39dc3292a103e04b13ed4013198</application>
+        <file_path/>
+        <instance_id>5bbe1cb33b9f92d89aefe747f4e45a2f</instance_id>
+        <instance_name>dev294438</instance_name>
+        <name>par_dashboard_widget_7b78c356c3e16e103e04b13ed401318f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">2778c356c3e16e103e04b13ed4013151</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 00:46:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b78c356c3e16e103e04b13ed401318f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package><sys_policy/><sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope><sys_update_name>par_dashboard_widget_7b78c356c3e16e103e04b13ed401318f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 00:46:28</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1830657630</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>42d8b06dc36d2a103e04b13ed40131b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 00:46:28</sys_created_on>
+        <sys_id>3b78c356c3e16e103e04b13ed4013191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e601a1fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 00:46:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>3f78c35679e16e10c120f9cec6008990</update_guid>
+        <update_guid_history>3f78c35679e16e10c120f9cec6008990:1830657630</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ff78c356c3e16e103e04b13ed40131a4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 00:46:29</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>560ff7f3893744faaf10066c4c343061</sys_id>
+        <sys_metadata>7b78c356c3e16e103e04b13ed401318f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_1755675_to_do">0148b39dc3292a103e04b13ed4013198</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">0148b39dc3292a103e04b13ed4013198</sys_scope>
+        <sys_scope_delete display_value="">69b704ae73444372894ecae296a7ee29</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_7b78c356c3e16e103e04b13ed401318f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_7b78c356c3e16e103e04b13ed401318f">3b78c356c3e16e103e04b13ed4013191</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 00:46:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
